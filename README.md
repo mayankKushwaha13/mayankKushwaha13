@@ -23,29 +23,22 @@ I'm a Mechanical Engineering student at IIT Guwahati, and a self taught app deve
 | 🩺 **[HealthKaAdmin](https://github.com/mayankKushwaha13/healthKaAdmin)** | An administrative application within the HealthKa healthcare suite. Explore the repository for its implementation and supported workflows. |
 | 🤖 **[HealthKaAssistant](https://github.com/mayankKushwaha13/healthKaAssistant)** | An additional application in the HealthKa project suite. See the repository for implementation details. |
 
-## 📊 GitHub Statistics
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mayankKushwaha13&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub statistics"
-  />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankKushwaha13&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Most-used programming languages"
+    height="180"
+    alt="Most Used Languages"
   />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=mayankKushwaha13&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
+    src="https://github-readme-stats.vercel.app/api?username=mayankKushwaha13&show_icons=false&hide_rank=true&hide_title=true&hide_border=true&theme=tokyonight&include_all_commits=true&custom_title=GitHub%20Contributions&show=contributions"
+    height="180"
+    alt="GitHub Contributions"
   />
 </p>
+
 
 ---
 
